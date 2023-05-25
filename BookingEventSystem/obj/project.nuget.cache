@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XECNBU4gvr5sADtIFFbauRc68iVWMahp51YRGQ504JdEkNB9vxExp9LL2skNcLyyeamI+swzWZ4pfFmUVM1/9Q==",
+  "dgSpecHash": "ytiL18vCVvHijwHQ5uURVnnqUNIw4xEFHtpfBnt1rJbAmbISXeeXbdUKUczc+ynEmumrYGgNxTKkKzsTK44qXw==",
   "success": true,
-  "projectFilePath": "D:\\WSB\\Programy\\BookingEventSystem\\BookingEventSystem\\BookingEventSystem.csproj",
+  "projectFilePath": "D:\\Projekty\\BookingEventSystem\\BookingEventSystem.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
