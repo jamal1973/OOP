@@ -1,0 +1,15 @@
+D:\WSB\Programy\BookingEventSystem\BookingEventSystem\obj\Debug\net6.0\BookingEventSystem.csproj.AssemblyReference.cache
+D:\WSB\Programy\BookingEventSystem\BookingEventSystem\obj\Debug\net6.0\BookingEventSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\WSB\Programy\BookingEventSystem\BookingEventSystem\obj\Debug\net6.0\BookingEventSystem.AssemblyInfoInputs.cache
+D:\WSB\Programy\BookingEventSystem\BookingEventSystem\obj\Debug\net6.0\BookingEventSystem.AssemblyInfo.cs
+D:\WSB\Programy\BookingEventSystem\BookingEventSystem\obj\Debug\net6.0\BookingEventSystem.csproj.CoreCompileInputs.cache
+D:\WSB\Programy\BookingEventSystem\BookingEventSystem\bin\Debug\net6.0\BookingEventSystem.exe
+D:\WSB\Programy\BookingEventSystem\BookingEventSystem\bin\Debug\net6.0\BookingEventSystem.deps.json
+D:\WSB\Programy\BookingEventSystem\BookingEventSystem\bin\Debug\net6.0\BookingEventSystem.runtimeconfig.json
+D:\WSB\Programy\BookingEventSystem\BookingEventSystem\bin\Debug\net6.0\BookingEventSystem.dll
+D:\WSB\Programy\BookingEventSystem\BookingEventSystem\bin\Debug\net6.0\BookingEventSystem.pdb
+D:\WSB\Programy\BookingEventSystem\BookingEventSystem\obj\Debug\net6.0\BookingEventSystem.dll
+D:\WSB\Programy\BookingEventSystem\BookingEventSystem\obj\Debug\net6.0\refint\BookingEventSystem.dll
+D:\WSB\Programy\BookingEventSystem\BookingEventSystem\obj\Debug\net6.0\BookingEventSystem.pdb
+D:\WSB\Programy\BookingEventSystem\BookingEventSystem\obj\Debug\net6.0\BookingEventSystem.genruntimeconfig.cache
+D:\WSB\Programy\BookingEventSystem\BookingEventSystem\obj\Debug\net6.0\ref\BookingEventSystem.dll
