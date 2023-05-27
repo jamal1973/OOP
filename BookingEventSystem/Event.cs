@@ -40,11 +40,11 @@ namespace BookingEventSystem
             if (IsAvailable(booking.NumTickets))
             {
                 Bookings.Add(booking);
-                Console.WriteLine($"Booking created for event {Name}");
+                Console.WriteLine($"BUtworzono rezerwację na wydarzenie {Name}");
             }
             else
             {
-                Console.WriteLine($"Event {Name} does not have enough available seats for {booking.NumTickets} tickets");
+                Console.WriteLine($"Wydarzenie {Name} nie posiada wystarczającej ilości miejsc dla rezerwowanych {booking.NumTickets} biletów");
             }
         }
 
@@ -54,11 +54,11 @@ namespace BookingEventSystem
             if (booking != null)
             {
                 Bookings.Remove(booking);
-                Console.WriteLine($"Booking {bookingId} canceled for event {Name}");
+                Console.WriteLine($"rezerwacja o id: {bookingId} usunięta z wydarzenia {Name}");
             }
             else
             {
-                Console.WriteLine($"Booking {bookingId} not found for event {Name}");
+                Console.WriteLine($"Rezerwacja o id: {bookingId} dla wydarzenia {Name} nie istnieje");
             }
         }
 

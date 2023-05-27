@@ -77,7 +77,7 @@ namespace BookingEventSystem
                 }
                 else
                 {
-                    Console.WriteLine($"Event {selectedEvent.Name} does not have enough available seats for {numTickets} tickets");
+                    Console.WriteLine($"Wydarzenie {selectedEvent.Name} brak wystarczającej ilości miejsc dla rezerwowanych {numTickets} biletów");
                 }
             }
             else
@@ -130,7 +130,7 @@ namespace BookingEventSystem
                 Console.WriteLine($"Rezerwacje na wydarzenia '{evnt.Name}':");
                 foreach (var booking in evnt.Bookings)
                 {
-                    Console.WriteLine($"Booking ID: {booking.BookingId}, Zamawiający: {booking.CustomerName}, Bilet/y: {booking.NumTickets}");
+                    Console.WriteLine($"Rezerwacja ID: {booking.BookingId}, Zamawiający: {booking.CustomerName}, Bilet/y: {booking.NumTickets}");
                 }
             }
             else
